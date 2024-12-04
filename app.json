@@ -1,0 +1,38 @@
+{
+  "expo": {
+    "name": "GerenciadorFinanceiro",
+    "slug": "GerenciadorFinanceiro",
+    "version": "1.0.0",
+    "orientation": "default",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.victorialpcp.GerenciadorFinanceiro"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "57eb7f7d-764a-43b7-a0a1-d1c11f5cfaf1"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/57eb7f7d-764a-43b7-a0a1-d1c11f5cfaf1"
+    }
+  }
+}
